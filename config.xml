@@ -17,4 +17,22 @@
       Libros para Todos
   </author>
 
+  <platform name="android" />
+
+  	<preference name="orientation" value="portrait" />
+
+    <!-- all: possible values handset, tablet, or universal -->
+    <preference name="target-device" value="universal" />
+    
+    <!-- all: hides the status bar at the top of the screen -->
+    <preference name="fullscreen" value="true" />
+
+    <preference name="android-installLocation" value="auto" />
+
+    <preference name="EnableViewportScale" value="true" />
+
+    <!-- <icon src="res/screen/android/Icon@2x.png" /> -->
+
+
+
 </widget>
