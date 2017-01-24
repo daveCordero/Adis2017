@@ -31,7 +31,6 @@
 
     <preference name="EnableViewportScale" value="true" />
 
-    <!-- <icon src="lpt_logo.png" /> -->
-    <icon src="icon.png" />
+    <icon src="recursos/img/icon.png" />
 
 </widget>
