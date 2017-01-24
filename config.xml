@@ -31,8 +31,7 @@
 
     <preference name="EnableViewportScale" value="true" />
 
-    <!-- <icon src="res/screen/android/Icon@2x.png" /> -->
-
-
+    <!-- <icon src="lpt_logo.png" /> -->
+    <icon src="icon.png" />
 
 </widget>
